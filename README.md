@@ -18,8 +18,7 @@ I'm always eager to expand my knowledge and skills. Currently, I'm focusing on:
 
 - Solidjs
 - Typescript
-
-## 💼 Projects
+  
 
 Feel free to check out my repositories for my projects!
 
